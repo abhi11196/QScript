@@ -1,0 +1,20 @@
+.hero {
+    background-image: url('/public/images/cofee.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 100px 0;
+  }
+  
+  .hero h1 {
+    font-size: 3rem;
+  }
+  
+  .hero p {
+    font-size: 1.25rem;
+  }
+  
+  .hero .btn {
+    margin-top: 20px;
+  }
+  

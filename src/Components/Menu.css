@@ -1,0 +1,32 @@
+.menu {
+    background-color: #f9f9f9;
+    padding: 80px 0;
+  }
+  
+  .menu h2 {
+    font-size: 2.5rem;
+    margin-bottom: 40px;
+    text-align: center;
+  }
+  
+  .menu-item {
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .menu-item .menu-item-img img {
+    max-width: 150px;
+    margin-right: 20px;
+  }
+  
+  .menu-item-details h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .menu-item-details p {
+    font-size: 1.1rem;
+  }
+  
+  
